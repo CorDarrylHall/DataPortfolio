@@ -1,0 +1,13 @@
+---
+title: "CorDarryl Hall's Data Portfolio"
+
+listing:
+  contents: docs
+  sort: "date desc"
+  type: grid
+  categories: false
+  sort-ui: false
+  filter-ui: false
+page-layout: article
+title-block-banner: false 
+---

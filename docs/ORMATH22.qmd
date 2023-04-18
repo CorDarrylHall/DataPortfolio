@@ -1,0 +1,23 @@
+---
+title: "Oregon Math Proficiency Rate by Ethic Group & Grade Level"
+image: Math.jpg
+---
+
+This analysis is done on Math students in the state of Oregon.
+
+```{r}
+library(tidyverse)
+library(lubridate)
+library(skimr)
+library(survival)
+library(survminer)
+library(flextable)
+library(DT)
+```
+
+```{r}
+thePath="/Users/Shared/DATA 501 Datasets"
+ds=read_csv(paste(thePath,"ORmath.csv",sep="/"))
+
+DT::datatable(ds)
+```

@@ -1,0 +1,7 @@
+---
+title: "Citations"
+---
+
+References:
+
+-   "Country Migration" Anupam Nanda, Olayiwola Oladiran, Examining regional asymmetries in drivers of international migration flows, The Manchester School, 10.1111/manc.12414, **90**, 6, (648-667), (2022).
